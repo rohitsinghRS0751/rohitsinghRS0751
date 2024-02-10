@@ -2,7 +2,7 @@
 - 👀 I’m interested in Github.
 - 🌱 I’m currently learning Devops.
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me after whwn you commit me.
+- 📫 How to reach me after when you commit me.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...Iam.
 
